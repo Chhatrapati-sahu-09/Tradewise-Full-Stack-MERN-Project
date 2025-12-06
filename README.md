@@ -2,7 +2,7 @@
   
 <img src="frontend/public/media/images/logo.png" alt="Tradewise Logo" width="200"/>
 
-# 📈 Tradewise - Full Stack Trading Platform
+# <img src="https://img.icons8.com/color/48/000000/increasing-stocks-graph.png" width="32"/> Tradewise - Full Stack Trading Platform
 
 ### A Modern MERN Stack Trading Platform
 
@@ -24,7 +24,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) trading platform clone i
 
 ---
 
-## 📸 Frontend Overview
+## <img src="https://img.icons8.com/fluency/48/000000/camera.png" width="24"/> Frontend Overview
 
 <div align="center">
   <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234118.png" alt="Frontend Landing Page" width="45%"/>
@@ -43,7 +43,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) trading platform clone i
 
 ---
 
-## 📊 Dashboard Preview
+## <img src="https://img.icons8.com/fluency/48/000000/analytics.png" width="24"/> Dashboard Preview
 
 <div align="center">
   <img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105421.png" alt="Dashboard Overview" width="45%"/>
@@ -57,7 +57,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) trading platform clone i
 
 ---
 
-## 🚀 Features
+## <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="24"/> Features
 
 ### Frontend (Landing Page)
 - Modern and responsive landing page
@@ -68,35 +68,35 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) trading platform clone i
 - Mobile-friendly design
 
 <details>
-<summary><b>📸 Click to view detailed Landing Page sections with screenshots</b></summary>
+<summary><b><img src="https://img.icons8.com/fluency/48/000000/camera.png" width="20"/> Click to view detailed Landing Page sections with screenshots</b></summary>
 
-## 🏠 Landing Page – Section-wise Description
+## <img src="https://img.icons8.com/fluency/48/000000/home.png" width="24"/> Landing Page – Section-wise Description
 
-### 1. 🎯 Hero Section – "Invest in Everything"
+### 1. <img src="https://img.icons8.com/fluency/48/000000/target.png" width="20"/> Hero Section – "Invest in Everything"
 
 **What this section does:**
 Introduces the platform as a one-stop solution for investing in stocks, derivatives, mutual funds, and more.
 
 **Key features shown:**
-- ✅ Direct, bold headline to build user trust
-- ✅ Clear subheading explaining the platform's purpose
-- ✅ Prominent **"Signup Now"** call-to-action button to drive conversions
+- ✓ Direct, bold headline to build user trust
+- ✓ Clear subheading explaining the platform's purpose
+- ✓ Prominent **"Signup Now"** call-to-action button to drive conversions
 
 **Purpose:**
 Immediately communicate what the platform offers and encourage users to start the registration process.
 
 ---
 
-### 2. 🏆 Achievements & Largest Broker Section
+### 2. <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="20"/> Achievements & Largest Broker Section
 
 **What it communicates:**
 This section highlights the platform's credibility and scale.
 
 **Key points included:**
-- 🏅 Awards and recognitions
-- 📊 "Largest stock broker in India" style message
-- 👥 Statistics showing how many users trust the platform
-- 📈 Lists of investable categories:
+- → Awards and recognitions
+- → "Largest stock broker in India" style message
+- → Statistics showing how many users trust the platform
+- → Lists of investable categories:
   - Futures & Options
   - Commodity derivatives
   - Currency derivatives
@@ -109,15 +109,15 @@ Builds trust by showcasing reputation, scale, and investment variety.
 
 ---
 
-### 3. 🛡️ Trust Section – "Trust with Confidence"
+### 3. <img src="https://img.icons8.com/fluency/48/000000/shield.png" width="20"/> Trust Section – "Trust with Confidence"
 
 **This part focuses on the values and reliability of the platform.**
 
 **Highlights:**
-- ✅ Customer-first approach
-- ✅ No spam or gimmicks (trust-building)
-- ✅ Complete product ecosystem - network of apps that enhance user experience
-- 🎯 Tools/apps shown visually:
+- ✓ Customer-first approach
+- ✓ No spam or gimmicks (trust-building)
+- ✓ Complete product ecosystem - network of apps that enhance user experience
+- → Tools/apps shown visually:
   - **Streak** - Algo trading
   - **Kite** - Trading platform
   - **Coin** - Mutual funds
@@ -130,29 +130,29 @@ Shows transparency, reliability, and a strong product ecosystem behind the tradi
 
 ---
 
-### 4. 💰 Pricing Section – Unbeatable Pricing
+### 4. <img src="https://img.icons8.com/fluency/48/000000/money.png" width="20"/> Pricing Section – Unbeatable Pricing
 
 **This section clearly lists the platform's pricing benefits.**
 
 **Includes:**
-- 🎉 **Free equity delivery**
-- 💵 **₹20 flat** intraday & F&O trades
-- 🆓 **Free direct mutual funds**
-- 📊 No hidden charges
+- → **Free equity delivery**
+- → **₹20 flat** intraday & F&O trades
+- → **Free direct mutual funds**
+- → No hidden charges
 
 **Purpose:**
 Demonstrates affordability and transparent pricing. This is a major reason users choose discount brokers—clear pricing helps convince visitors to sign up.
 
 ---
 
-### 5. 📚 Free Market Education Section – "Varsity"
+### 5. <img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> Free Market Education Section – "Varsity"
 
 **This part promotes educational resources.**
 
 **What it shows:**
-- 📖 Visual/illustration of learning modules
-- 🎓 Description of free, open market education
-- 🔗 Two important resources:
+- → Visual/illustration of learning modules
+- → Description of free, open market education
+- → Two important resources:
   - **Varsity** - Comprehensive stock market learning
   - **TradingQ&A** - Community-driven help platform
 
@@ -161,17 +161,17 @@ Shows that the platform helps users **learn**, not just trade. Empowers beginner
 
 ---
 
-### 6. 🚀 Account Opening Section
+### 6. <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="20"/> Account Opening Section
 
 **A simple, clear CTA section inviting users to join.**
 
 **Headline:** "Open a Zerodha account"
 
 **Highlights:**
-- 🖥️ Modern trading platform
-- 💸 Free investments
-- 💎 Transparent pricing
-- ⚡ Quick signup process
+- → Modern trading platform
+- → Free investments
+- → Transparent pricing
+- → Quick signup process
 
 **CTA Button:** **Sign up Now**
 
@@ -180,28 +180,28 @@ Drive conversions by reminding visitors that account opening is simple and free.
 
 ---
 
-### 7. 💻 Technology Section – Modern & Intuitive Trading Platforms
+### 7. <img src="https://img.icons8.com/fluency/48/000000/laptop.png" width="20"/> Technology Section – Modern & Intuitive Trading Platforms
 
 **Description:**
 Explains the technology behind the trading app.
 
 **Focus:**
-- 🎨 Sleek UI/UX design
-- ⚡ Fast performance
-- 📊 Streaming market data
-- 📈 Advanced charts and analytics
-- 📱 Mobile + desktop experience
+- → Sleek UI/UX design
+- → Fast performance
+- → Streaming market data
+- → Advanced charts and analytics
+- → Mobile + desktop experience
 
 **Also includes:**
-- 🎮 **Demo link** - Try before you invest
-- 📲 **Mobile app download buttons** - iOS & Android
+- → **Demo link** - Try before you invest
+- → **Mobile app download buttons** - iOS & Android
 
 **Purpose:**
 Communicates that the platform is fast, modern, and accessible across all devices.
 
 ---
 
-### 8. 💵 Pricing Breakdown Page
+### 8. <img src="https://img.icons8.com/fluency/48/000000/price-tag.png" width="20"/> Pricing Breakdown Page
 
 **Provides detailed pricing for every product:**
 
@@ -218,19 +218,19 @@ Crystal clear, transparent breakdown that helps users understand costs with **no
 
 ---
 
-### 9. 🆘 Support Portal Section
+### 9. <img src="https://img.icons8.com/fluency/48/000000/help.png" width="20"/> Support Portal Section
 
 **A dedicated help & support system.**
 
 **Includes:**
-- 🔍 **Search bar** for queries
-- ⚡ **Quick help buttons:**
+- → **Search bar** for queries
+- → **Quick help buttons:**
   - Track segment activation
   - Intraday margins
   - User manual
   - Trading guides
-- 📰 **Featured articles**
-- 🎫 **Create support tickets for:**
+- → **Featured articles**
+- → **Create support tickets for:**
   - Account Opening
   - Funding & Withdrawals
   - Trading & Platform Issues
@@ -241,16 +241,16 @@ Helps users self-solve queries and raise tickets smoothly. Reduces support load 
 
 ---
 
-### 🎯 Landing Page Key Features Summary
+### → Landing Page Key Features Summary
 
-✅ **Clear Value Proposition** - Invest in everything message  
-✅ **Trust Signals** - Awards, scale, and recognition  
-✅ **Transparent Pricing** - No hidden fees, clear costs  
-✅ **Educational Content** - Free learning resources  
-✅ **Modern UI/UX** - Clean, professional design  
-✅ **Mobile Responsive** - Works on all devices  
-✅ **Strong CTAs** - Multiple signup opportunities  
-✅ **Support System** - Comprehensive help center  
+✓ **Clear Value Proposition** - Invest in everything message  
+✓ **Trust Signals** - Awards, scale, and recognition  
+✓ **Transparent Pricing** - No hidden fees, clear costs  
+✓ **Educational Content** - Free learning resources  
+✓ **Modern UI/UX** - Clean, professional design  
+✓ **Mobile Responsive** - Works on all devices  
+✓ **Strong CTAs** - Multiple signup opportunities  
+✓ **Support System** - Comprehensive help center  
 
 </details>
 
@@ -271,7 +271,7 @@ Helps users self-solve queries and raise tickets smoothly. Reduces support load 
 - Error handling and validation
 - Graceful fallback when database is unavailable
 
-## 📁 Project Structure
+## <img src="https://img.icons8.com/fluency/48/000000/folder-tree.png" width="24"/> Project Structure
 
 ```
 zerodha-clone/
@@ -295,7 +295,7 @@ zerodha-clone/
 └── README.md
 ```
 
-## 🛠️ Technologies Used
+## <img src="https://img.icons8.com/fluency/48/000000/settings.png" width="24"/> Technologies Used
 
 ### Frontend
 - **React** 19.1.1 - UI library
@@ -313,7 +313,7 @@ zerodha-clone/
 - **dotenv** - Environment variable management
 - **Nodemon** - Development server
 
-## 📋 Prerequisites
+## <img src="https://img.icons8.com/fluency/48/000000/checklist.png" width="24"/> Prerequisites
 
 Before running this project, make sure you have:
 
@@ -321,7 +321,7 @@ Before running this project, make sure you have:
 - MongoDB (local installation or MongoDB Atlas account)
 - npm or yarn package manager
 
-## ⚙️ Installation & Setup
+## <img src="https://img.icons8.com/fluency/48/000000/gear.png" width="24"/> Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -360,7 +360,7 @@ cd ../dashboard
 npm install
 ```
 
-## 🚀 Running the Application
+## <img src="https://img.icons8.com/fluency/48/000000/play.png" width="24"/> Running the Application
 
 You need to run all three parts of the application:
 
@@ -384,7 +384,7 @@ set PORT=3001 && npm start
 # PORT=3001 npm start
 ```
 
-## 🌐 Access the Application
+## <img src="https://img.icons8.com/fluency/48/000000/internet.png" width="24"/> Access the Application
 
 Once all services are running:
 
@@ -392,7 +392,7 @@ Once all services are running:
 - **Trading Dashboard**: http://localhost:3001
 - **Backend API**: http://localhost:3002
 
-## 📡 API Endpoints
+## <img src="https://img.icons8.com/fluency/48/000000/api.png" width="24"/> API Endpoints
 
 ### Holdings
 - `GET /allHoldings` - Fetch all holdings
@@ -411,7 +411,7 @@ Once all services are running:
   }
   ```
 
-## 📊 Free Stock Market APIs (Alternatives)
+## <img src="https://img.icons8.com/fluency/48/000000/stocks.png" width="24"/> Free Stock Market APIs (Alternatives)
 
 Since this project requires real-time stock data, here are some free APIs you can integrate:
 
@@ -483,7 +483,7 @@ Add to your `.env`:
 ALPHA_VANTAGE_KEY=your_api_key_here
 ```
 
-## 🔧 Configuration
+## <img src="https://img.icons8.com/fluency/48/000000/settings-3.png" width="24"/> Configuration
 
 ### MongoDB Setup
 
@@ -508,7 +508,7 @@ If you need to change the default ports, update:
 - **Frontend**: Runs on port 3000 by default (React default)
 - **Dashboard**: Set `PORT` environment variable before starting
 
-## ⚠️ Important Notes
+## <img src="https://img.icons8.com/fluency/48/000000/warning-shield.png" width="24"/> Important Notes
 
 ### Backend Code Limitations
 Some advanced backend features are **not included** in this repository:
@@ -526,7 +526,7 @@ These were excluded due to:
 
 The current version provides a **fully functional demo** with mock data support and can be extended based on your needs.
 
-## 🐛 Troubleshooting
+## <img src="https://img.icons8.com/fluency/48/000000/bug.png" width="24"/> Troubleshooting
 
 ### Database Connection Issues
 
@@ -551,7 +551,7 @@ killall node
 
 Make sure the backend CORS configuration allows requests from your frontend URLs.
 
-## 📦 Build for Production
+## <img src="https://img.icons8.com/fluency/48/000000/package.png" width="24"/> Build for Production
 
 ### Frontend
 ```bash
@@ -567,7 +567,7 @@ npm run build
 
 The production builds will be in the `build/` directories.
 
-## 🤝 Contributing
+## <img src="https://img.icons8.com/fluency/48/000000/handshake.png" width="24"/> Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -577,7 +577,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## 📝 License
+## <img src="https://img.icons8.com/fluency/48/000000/document.png" width="24"/> License
 
 ## 🔮 Future Enhancements
 
@@ -594,17 +594,17 @@ Contributions are welcome! Please follow these steps:
 - [ ] Push notifications for price alerts
 - [ ] Social trading features
 
-## 🙏 Acknowledgments
+## <img src="https://img.icons8.com/fluency/48/000000/thanks.png" width="24"/> Acknowledgments
 
 - Inspired by Zerodha's trading platform
 - Built as a learning project for MERN stack development
 - Thanks to the open-source community for various libraries and tools
 
-## 📸 Screenshots & Dashboard Features
+## <img src="https://img.icons8.com/fluency/48/000000/image.png" width="24"/> Screenshots & Dashboard Features
 
 ### Dashboard Overview
 
-### 1. 📊 Market Indicators (Top Header)
+### 1. <img src="https://img.icons8.com/fluency/48/000000/graph.png" width="20"/> Market Indicators (Top Header)
 
 **Purpose:** 
 Shows the live market trend of India's two biggest stock indices:
@@ -616,7 +616,7 @@ Provides quick insight into the overall market condition (bullish/bearish status
 
 ---
 
-### 2. 🔍 Search Bar & Stock List (Left Panel)
+### 2. <img src="https://img.icons8.com/fluency/48/000000/search.png" width="20"/> Search Bar & Stock List (Left Panel)
 
 **Purpose:**
 - Quick search functionality for stocks by name or symbol
@@ -632,7 +632,7 @@ Displays a scrollable watchlist with:
 
 ---
 
-### 3. 💰 Equity Section (Main Dashboard Panel)
+### 3. <img src="https://img.icons8.com/fluency/48/000000/money-bag.png" width="20"/> Equity Section (Main Dashboard Panel)
 
 **Details shown:**
 - **Equity Balance:** Total funds in the trading account
@@ -644,7 +644,7 @@ Displays a scrollable watchlist with:
 
 ---
 
-### 4. 📈 Holdings Summary (Dashboard Middle Section)
+### 4. <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="20"/> Holdings Summary (Dashboard Middle Section)
 
 **Metrics displayed:**
 - **Total Investment:** Total amount invested
@@ -656,7 +656,7 @@ Displays a scrollable watchlist with:
 
 ---
 
-### 5. 🍩 Donut Chart (Portfolio Distribution)
+### 5. <img src="https://img.icons8.com/fluency/48/000000/doughnut-chart.png" width="20"/> Donut Chart (Portfolio Distribution)
 
 **Purpose:** Visual breakdown of portfolio based on stock weightage.
 
@@ -671,7 +671,7 @@ Displays a scrollable watchlist with:
 
 ---
 
-### 6. 📋 Holdings Detailed Table (Holdings Tab)
+### 6. <img src="https://img.icons8.com/fluency/48/000000/todo-list.png" width="20"/> Holdings Detailed Table (Holdings Tab)
 
 **Comprehensive stock information:**
 
@@ -689,7 +689,7 @@ Displays a scrollable watchlist with:
 
 ---
 
-### 7. 📊 Positions Section (Active Trades Tab)
+### 7. <img src="https://img.icons8.com/fluency/48/000000/line-chart.png" width="20"/> Positions Section (Active Trades Tab)
 
 **Contains open positions that are not yet closed:**
 
@@ -706,18 +706,18 @@ Displays a scrollable watchlist with:
 
 ---
 
-### 8. 🎯 Key Dashboard Features
+### 8. → Key Dashboard Features
 
-✅ **Real-time Updates:** Live price changes and P&L calculations  
-✅ **Visual Analytics:** Charts and graphs for better insights  
-✅ **Quick Actions:** Buy/Sell buttons for instant trading  
-✅ **Portfolio Tracking:** Complete overview of investments  
-✅ **Risk Management:** Margin and exposure monitoring  
-✅ **Performance Metrics:** Detailed profit/loss analysis  
+✓ **Real-time Updates:** Live price changes and P&L calculations  
+✓ **Visual Analytics:** Charts and graphs for better insights  
+✓ **Quick Actions:** Buy/Sell buttons for instant trading  
+✓ **Portfolio Tracking:** Complete overview of investments  
+✓ **Risk Management:** Margin and exposure monitoring  
+✓ **Performance Metrics:** Detailed profit/loss analysis  
 
 ---
 
-## 🔮 Future Enhancements
+## <img src="https://img.icons8.com/fluency/48/000000/crystal-ball.png" width="24"/> Future Enhancements
 
 - [ ] User authentication and authorization (JWT)
 - [ ] Real-time stock price updates via WebSocket
@@ -731,13 +731,14 @@ Displays a scrollable watchlist with:
 - [ ] Multi-language support
 - [ ] Push notifications for price alerts
 - [ ] Social trading features
-## 📞 Support
+
+## <img src="https://img.icons8.com/fluency/48/000000/phone.png" width="24"/> Support
 
 For support, create an issue in the GitHub repository or reach out via:
 - **GitHub**: [@Chhatrapati-sahu-09](https://github.com/Chhatrapati-sahu-09)
 - **Email**: Contact through GitHub profile
 
-## 📜 Disclaimer
+## <img src="https://img.icons8.com/fluency/48/000000/terms-and-conditions.png" width="24"/> Disclaimer
 
 This project is for **educational purposes only**. It is not intended for actual trading or financial transactions. Always consult with financial advisors before making investment decisions.
 
@@ -745,9 +746,9 @@ This project is for **educational purposes only**. It is not intended for actual
 
 <div align="center">
 
-### ⭐ Star this repository if you find it helpful!
+### <img src="https://img.icons8.com/fluency/48/000000/star.png" width="20"/> Star this repository if you find it helpful!
 
-Made with ❤️ by [Chhatrapati Sahu](https://github.com/Chhatrapati-sahu-09)
+Made with <img src="https://img.icons8.com/fluency/48/000000/hearts.png" width="16"/> by [Chhatrapati Sahu](https://github.com/Chhatrapati-sahu-09)
 
 [![GitHub followers](https://img.shields.io/github/followers/Chhatrapati-sahu-09?style=social)](https://github.com/Chhatrapati-sahu-09)
 [![GitHub stars](https://img.shields.io/github/stars/Chhatrapati-sahu-09/Tradewise-Full-Stack-MERN-Project?style=social)](https://github.com/Chhatrapati-sahu-09/Tradewise-Full-Stack-MERN-Project)
