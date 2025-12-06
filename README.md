@@ -2,7 +2,7 @@
   
 <img src="frontend/public/media/images/logo.png" alt="Tradewise Logo" width="200"/>
 
-#  Tradewise - Full Stack Trading Platform
+# 📈 Tradewise - Full Stack Trading Platform
 
 ### A Modern MERN Stack Trading Platform
 
