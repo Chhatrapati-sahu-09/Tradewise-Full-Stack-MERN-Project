@@ -1,8 +1,8 @@
 "<div align="center">
   
-# 📈 Tradewise - Full Stack Trading Platform
+<img src="frontend/public/media/images/logo.png" alt="Tradewise Logo" width="200"/>
 
-<img src="https://img.icons8.com/fluency/96/000000/stocks.png" alt="Tradewise Logo" width="100"/>
+# 📈 Tradewise - Full Stack Trading Platform
 
 ### A Modern MERN Stack Trading Platform
 
@@ -22,6 +22,41 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) trading platform clone i
 
 > ⚠️ **Note**: Some backend routes and authentication code are not pushed to this repository due to security considerations and API key restrictions. The current version includes core functionality with mock data support.
 
+---
+
+## 📸 Frontend Overview
+
+<div align="center">
+  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234118.png" alt="Frontend Landing Page" width="45%"/>
+  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234137.png" alt="Platform Features" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234200.png" alt="Product Ecosystem" width="45%"/>
+  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234504.png" alt="Education Platform" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234514.png" alt="Trading Technology" width="45%"/>
+  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234524.png" alt="Pricing Details" width="45%"/>
+</div>
+
+---
+
+## 📊 Dashboard Preview
+
+<div align="center">
+  <img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105421.png" alt="Dashboard Overview" width="45%"/>
+  <img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105431.png" alt="Market Indicators" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105442.png" alt="Watchlist & Holdings" width="45%"/>
+  <img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105501.png" alt="Portfolio Analysis" width="45%"/>
+</div>
+
+---
+
 ## 🚀 Features
 
 ### Frontend (Landing Page)
@@ -39,11 +74,6 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) trading platform clone i
 
 ### 1. 🎯 Hero Section – "Invest in Everything"
 
-<div align="center">
-  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234118.png" alt="Hero Section" width="800"/>
-  <p><em>Main landing page with hero section and call-to-action</em></p>
-</div>
-
 **What this section does:**
 Introduces the platform as a one-stop solution for investing in stocks, derivatives, mutual funds, and more.
 
@@ -58,11 +88,6 @@ Immediately communicate what the platform offers and encourage users to start th
 ---
 
 ### 2. 🏆 Achievements & Largest Broker Section
-
-<div align="center">
-  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234137.png" alt="Achievements Section" width="800"/>
-  <p><em>Platform achievements and investment categories</em></p>
-</div>
 
 **What it communicates:**
 This section highlights the platform's credibility and scale.
@@ -85,11 +110,6 @@ Builds trust by showcasing reputation, scale, and investment variety.
 ---
 
 ### 3. 🛡️ Trust Section – "Trust with Confidence"
-
-<div align="center">
-  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234200.png" alt="Trust Section" width="800"/>
-  <p><em>Trust indicators and product ecosystem</em></p>
-</div>
 
 **This part focuses on the values and reliability of the platform.**
 
@@ -127,11 +147,6 @@ Demonstrates affordability and transparent pricing. This is a major reason users
 
 ### 5. 📚 Free Market Education Section – "Varsity"
 
-<div align="center">
-  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234504.png" alt="Education Section" width="800"/>
-  <p><em>Free market education and learning resources</em></p>
-</div>
-
 **This part promotes educational resources.**
 
 **What it shows:**
@@ -167,11 +182,6 @@ Drive conversions by reminding visitors that account opening is simple and free.
 
 ### 7. 💻 Technology Section – Modern & Intuitive Trading Platforms
 
-<div align="center">
-  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234514.png" alt="Technology Section" width="800"/>
-  <p><em>Modern trading platform features</em></p>
-</div>
-
 **Description:**
 Explains the technology behind the trading app.
 
@@ -192,11 +202,6 @@ Communicates that the platform is fast, modern, and accessible across all device
 ---
 
 ### 8. 💵 Pricing Breakdown Page
-
-<div align="center">
-  <img src="frontend/frontend-screenshot/Screenshot 2025-12-05 234524.png" alt="Pricing Details" width="800"/>
-  <p><em>Detailed pricing breakdown</em></p>
-</div>
 
 **Provides detailed pricing for every product:**
 
@@ -599,14 +604,7 @@ Contributions are welcome! Please follow these steps:
 
 ### Dashboard Overview
 
-<div align="center">
-  <img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105421.png" alt="Dashboard Overview" width="800"/>
-  <p><em>Main Dashboard with Holdings and Portfolio Summary</em></p>
-</div>
-
 ### 1. 📊 Market Indicators (Top Header)
-
-<img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105431.png" alt="Market Indicators" width="800"/>
 
 **Purpose:** 
 Shows the live market trend of India's two biggest stock indices:
@@ -619,8 +617,6 @@ Provides quick insight into the overall market condition (bullish/bearish status
 ---
 
 ### 2. 🔍 Search Bar & Stock List (Left Panel)
-
-<img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105442.png" alt="Watchlist" width="800"/>
 
 **Purpose:**
 - Quick search functionality for stocks by name or symbol
@@ -661,8 +657,6 @@ Displays a scrollable watchlist with:
 ---
 
 ### 5. 🍩 Donut Chart (Portfolio Distribution)
-
-<img src="dashboard/dashboard-screenshot/Screenshot 2025-12-06 105501.png" alt="Portfolio Analysis" width="800"/>
 
 **Purpose:** Visual breakdown of portfolio based on stock weightage.
 
